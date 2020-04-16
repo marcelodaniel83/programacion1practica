@@ -1,7 +1,7 @@
 /*
 Ingresar los sueldos de 4 empleados, y calcular el promedio de ellos.
-Se deber· imprimir una leyenda que indique si el promedio est· por encima o por debajo del Nivel de Pobreza.
-Este valor de Nivel de Pobreza, tambiÈn deber· ser ingresado por teclado.
+Se deber√° imprimir una leyenda que indique si el promedio est√° por encima o por debajo del Nivel de Pobreza.
+Este valor de Nivel de Pobreza, tambi√©n deber√° ser ingresado por teclado.
 */
 
 import hsa.Console;
