@@ -1,10 +1,10 @@
 /*
 Realizar  un programa que permita ingresar el sueldo
- y los años de antigüedad de un operario y que informe el sueldo a cobrar,
+ y los aÃ±os de antigÃ¼edad de un operario y que informe el sueldo a cobrar,
 teniendo en cuenta lo siguiente:
-a) Si el sueldo es inferior a 4500 y su antigüedad es superior o igual a 10 años, otorgarle un aumento del 10%.
-b) Si el sueldo es inferior  a  4500 y su antigüedad es menor a 10 años, otorgarle un aumento del 5%.
-c) Si el sueldo es mayor o igual a 4500, no realizarle ningún aumento.
+a) Si el sueldo es inferior a 4500 y su antigÃ¼edad es superior o igual a 10 aÃ±os, otorgarle un aumento del 10%.
+b) Si el sueldo es inferior  a  4500 y su antigÃ¼edad es menor a 10 aÃ±os, otorgarle un aumento del 5%.
+c) Si el sueldo es mayor o igual a 4500, no realizarle ningÃºn aumento.
 
 */
 
