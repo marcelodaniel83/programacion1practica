@@ -1,7 +1,7 @@
-/*Realizar un programa que lea por teclado dos números,
+/*Realizar un programa que lea por teclado dos nÃºmeros,
 si el primero es mayor al segundo, informar su suma y diferencia,
  en caso contrario, informar el producto
- y la división del primero por el segundo.
+ y la divisiÃ³n del primero por el segundo.
  */
 
 
