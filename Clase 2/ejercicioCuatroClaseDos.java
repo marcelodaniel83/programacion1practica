@@ -1,7 +1,7 @@
-/* Ingresar una fecha por teclado, día mes y año,
- y determinar si corresponde al primer trimestre del año. 
+/* Ingresar una fecha por teclado, dÃ­a mes y aÃ±o,
+ y determinar si corresponde al primer trimestre del aÃ±o. 
  Mostrarlo las leyendas: "Corresponde al primer Trimestre"
-o "No corresponde al primer Trimestre", según corresponda.
+o "No corresponde al primer Trimestre", segÃºn corresponda.
 */
 
 import hsa.Console;
