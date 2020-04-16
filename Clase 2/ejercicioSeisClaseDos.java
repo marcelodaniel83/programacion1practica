@@ -1,7 +1,7 @@
 /*
-Ingresar  tres valores numéricos por teclado,
-si todos son iguales, imprimir la leyenda: "Todos los números ingresados son iguales",
-de lo contrario, imprimir la leyenda "No todos los números son iguales".
+Ingresar  tres valores numÃ©ricos por teclado,
+si todos son iguales, imprimir la leyenda: "Todos los nÃºmeros ingresados son iguales",
+de lo contrario, imprimir la leyenda "No todos los nÃºmeros son iguales".
 */
 
 
