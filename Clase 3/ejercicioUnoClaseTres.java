@@ -1,4 +1,4 @@
-//Ingresar un número de hasta 5 cifras, y determinar cuantos digitos tiene.
+//Ingresar un nÃºmero de hasta 5 cifras, y determinar cuantos digitos tiene.
 
 import hsa.Console;
 class ejercicioUnoClaseTres
