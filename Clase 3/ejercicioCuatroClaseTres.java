@@ -1,7 +1,7 @@
 /*
- Leer  un valor entero. Mostrar el número de día que corresponde a ese valor.
+ Leer  un valor entero. Mostrar el nÃºmero de dÃ­a que corresponde a ese valor.
 Suponer que 0 corresponde a domingo,
-se debe mostrar el nombre del día que le corrresponde.
+se debe mostrar el nombre del dÃ­a que le corrresponde.
 
 */
 
