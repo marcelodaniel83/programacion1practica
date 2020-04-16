@@ -1,5 +1,5 @@
 /*
-Imprimí los números pares en forma
+Imprimi los numeros pares en forma
 decreciente desde el 800 hasta el 400
 */
 
