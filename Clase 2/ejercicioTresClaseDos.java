@@ -1,7 +1,7 @@
-/*Ingresar el largo y el ancho de una habitación,
+/*Ingresar el largo y el ancho de una habitaciÃ³n,
  y calcular su superficie. Si la superficie es mayor a 10,
- imprimir la leyenda "Habitación adecuada",
- de lo contrario, imprimir la leyenda "Habitación pequeña".
+ imprimir la leyenda "HabitaciÃ³n adecuada",
+ de lo contrario, imprimir la leyenda "HabitaciÃ³n pequeÃ±a".
   (Superficie = largo * ancho
 */
 
