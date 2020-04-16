@@ -1,5 +1,5 @@
-/*Ingresar un número por teclado en el rango de
- 0 a 99 y determinar si tiene uno dos dígitos
+/*Ingresar un nÃºmero por teclado en el rango de
+ 0 a 99 y determinar si tiene uno dos dÃ­gitos
  */
  
 import hsa.Console;
