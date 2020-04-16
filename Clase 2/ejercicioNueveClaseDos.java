@@ -2,7 +2,7 @@
  Ingresar  la altura de una persona e imprimir si es Baja, Normal o Alta,
  de acuerdo con las siguientes condiciones:
 a) Si la altura es menor a 1.60, es una persona baja.
-b) Si la altura est· comprendida entre 1.60 y 1.75 (ambos inclusive),
+b) Si la altura est√° comprendida entre 1.60 y 1.75 (ambos inclusive),
    es una persona Normal.
 c) Si la altura supera a la medida de 1.75, es una persona Alta.
 
