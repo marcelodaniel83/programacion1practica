@@ -1,8 +1,8 @@
 /*
- Se debe ingresar tres números por teclado,
-si al menos uno de los números es menor a 10,
-imprimir la leyenda "Alguno de los números es menor a 10" de lo contrario,
-"Ninguno de los números es menor a 10".
+ Se debe ingresar tres nÃºmeros por teclado,
+si al menos uno de los nÃºmeros es menor a 10,
+imprimir la leyenda "Alguno de los nÃºmeros es menor a 10" de lo contrario,
+"Ninguno de los nÃºmeros es menor a 10".
 
 */
 
