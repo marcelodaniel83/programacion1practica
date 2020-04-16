@@ -1,10 +1,10 @@
 /*
 
 Escribir un programa en el cual:
-dada una lista de tres valores numéricos distintos se calcule
-e informe su rango de variación (debe mostrar el menor y el mayor de ellos).
-Ejemplo: Si se introducen los números:  8 , 2  y  5
-La impresión debería ser:  Rango = [2..8]
+dada una lista de tres valores numÃ©ricos distintos se calcule
+e informe su rango de variaciÃ³n (debe mostrar el menor y el mayor de ellos).
+Ejemplo: Si se introducen los nÃºmeros:  8 , 2  y  5
+La impresiÃ³n deberÃ­a ser:  Rango = [2..8]
 
 */
 
