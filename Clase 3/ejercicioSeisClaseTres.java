@@ -1,4 +1,4 @@
-// Ingresar 4 números y mostrar el mayor de ellos.
+// Ingresar 4 nÃºmeros y mostrar el mayor de ellos.
 
 import hsa.Console;
 class ejercicioSeisClaseTres
