@@ -1,6 +1,6 @@
 /*
-Ingresar el precio de un artículo y un código que informe lo siguiente: Si el código es 1, es porque se abona de contado.
- Si el código es 2, es porque se abona con tarjeta. Imprimir el importe  abonar teniendo en cuenta que: Si se abona de contado,
+Ingresar el precio de un artÃ­culo y un cÃ³digo que informe lo siguiente: Si el cÃ³digo es 1, es porque se abona de contado.
+ Si el cÃ³digo es 2, es porque se abona con tarjeta. Imprimir el importe  abonar teniendo en cuenta que: Si se abona de contado,
  se debe realizar un descuento del 5% del precio de venta.
  Si se abona con tarjeta, se debe realizar un incremento del 10 % del precio de venta.
 
