@@ -28,3 +28,21 @@ public class Main {
  case 5:
  System.out.println("CINCO");
  break;
+   case 6:
+ System.out.println("SEIS");
+ break;
+ case 7:
+ System.out.println("SIETE");
+ break;
+ case 8:
+ System.out.println("OCHO");
+ break;
+ case 9:
+ System.out.println("NUEVE");
+ break;
+ case 10:
+ System.out.println("DIEZ");
+ break;
+ }
+ }
+}
