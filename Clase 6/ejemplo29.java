@@ -1,3 +1,9 @@
+/*
+Escribir un programa para calcular el promedio de un alumno,
+que solicite la carga de sus notas por teclado y que finalice cuando se ingrese el valor 99.
+(El valor 99, no debe ser tenido en cuenta para el cálculo)
+*/
+
 import hsa.Console;
 class Ejemplo29
 {
